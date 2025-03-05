@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.2",
+    "heartbeatAt": "2025-03-05T18:59:34.571804",
+    "startedAt": "2025-03-05T18:59:25.192711",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\moham\\AppData\\Roaming\\jupyter\\runtime\\kernel-ce775697-bd9f-406c-afb0-4e1047bdf12b.json"
+    ],
+    "state": "running",
+    "program": "CryptoAI_Notebook.ipynb",
+    "root": "C:/Users/moham/Desktop/personal-repos/cryptoai",
+    "git": {
+        "remote": "https://github.com/mda84/cryptoai.git",
+        "commit": "7e436326a1603d8aa3335bc0dcb0226043803fe1"
+    },
+    "email": "mda84@sfu.ca",
+    "host": "LAPTOP-I4B2KDSN",
+    "username": "moham",
+    "executable": "c:\\users\\moham\\appdata\\local\\programs\\python\\python39\\python.exe"
+}

@@ -1,0 +1,64 @@
+
+LLM fine-tuning complete and model saved to ./models/llm_finetuned
+  0%|                                       | 528k/338M [00:00<01:07, 5.27MiB/s]
+
+
+
+
+
+
+100%|███████████████████████████████████████| 338M/338M [00:10<00:00, 35.3MiB/s]
+C:\Users\moham\AppData\Local\Temp/ipykernel_47556/2020136487.py:85: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Starting VLM fine-tuning...
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 1.116579294204712
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 2.684260845184326
+Epoch 1 Loss: 0.8944169878959656
+Epoch 1 Loss: 0.736930787563324
+Epoch 2 Loss: 0.6931471824645996
+Epoch 2 Loss: 0.8319196105003357
+Epoch 2 Loss: 0.7342022657394409
+Epoch 2 Loss: 0.7056110501289368
+VLM fine-tuning complete and model saved to ./models/vlm_finetuned.pth
+WARNING: Ignoring invalid distribution -rotobuf (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -orch (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -lama-cpp-python (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -ffi (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -rotobuf (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -orch (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -lama-cpp-python (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -ffi (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -rotobuf (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -orch (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -lama-cpp-python (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -ffi (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+    WARNING: Ignoring invalid distribution -rotobuf (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+    WARNING: Ignoring invalid distribution -orch (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+    WARNING: Ignoring invalid distribution -lama-cpp-python (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+    WARNING: Ignoring invalid distribution -ffi (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -rotobuf (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -orch (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -lama-cpp-python (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -ffi (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -rotobuf (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -orch (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -lama-cpp-python (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: Ignoring invalid distribution -ffi (c:\users\moham\appdata\local\programs\python\python39\lib\site-packages)
+WARNING: You are using pip version 21.3.1; however, version 25.0.1 is available.
+You should consider upgrading via the 'C:\Users\moham\AppData\Local\Programs\Python\Python39\python.exe -m pip install --upgrade pip' command.
+Requirement already satisfied: plotly in c:\users\moham\appdata\local\programs\python\python39\lib\site-packages (4.14.3)
+Collecting plotly
+  Downloading plotly-6.0.0-py3-none-any.whl (14.8 MB)
+Requirement already satisfied: packaging in c:\users\moham\appdata\local\programs\python\python39\lib\site-packages (from plotly) (21.3)
+Requirement already satisfied: narwhals>=1.15.1 in c:\users\moham\appdata\local\programs\python\python39\lib\site-packages (from plotly) (1.28.0)
+Requirement already satisfied: pyparsing!=3.0.5,>=2.0.2 in c:\users\moham\appdata\local\programs\python\python39\lib\site-packages (from packaging->plotly) (3.0.7)
+Installing collected packages: plotly
+  Attempting uninstall: plotly
+    Found existing installation: plotly 4.14.3
+    Uninstalling plotly-4.14.3:
+      Successfully uninstalled plotly-4.14.3
+Successfully installed plotly-6.0.0

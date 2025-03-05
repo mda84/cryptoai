@@ -1,0 +1,408 @@
+LLM fine-tuning complete and model saved to ./models/llm_finetuned
+Generated 8 candlestick charts.
+Starting VLM fine-tuning...
+C:\Users\moham\AppData\Local\Temp/ipykernel_51468/2020136487.py:85: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 1.0846595764160156
+Epoch 0 Loss: 2.784902811050415
+Epoch 0 Loss: 0.8405109643936157
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.7315534353256226
+Epoch 1 Loss: 0.8281380534172058
+Epoch 1 Loss: 0.7229981422424316
+Epoch 2 Loss: 0.6158232688903809
+Epoch 2 Loss: 0.6931471824645996
+Epoch 2 Loss: 0.7895818948745728
+Epoch 2 Loss: 0.6266120672225952
+VLM fine-tuning complete and model saved to ./models/vlm_finetuned.pth
+2025-03-05 12:25:03.470 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--- Dashboard Demonstration ---
+Test Article: Crypto Fraudsters Can be Fined, Jailed and Now Also 'Caned' by Authorities. (delihayat, Getty Images)
+Sentiment: Positive
+2025-03-05 12:25:05.303
+  [33m[1mWarning:[39m[22m to view this Streamlit app on a browser, run it with the following
+  command:
+    streamlit run c:\users\moham\appdata\local\programs\python\python39\lib\site-packages\ipykernel_launcher.py [ARGUMENTS]
+2025-03-05 12:25:05.304 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.304
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 12:25:05.306 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.306 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.307
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 12:25:05.309 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.309 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.310 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.382 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:05.383 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Generated chart at C:\Users\moham\AppData\Local\Temp\tmpfkwh06eb.png
+2025-03-05 12:25:06.803 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:06.804 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:06.804 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:07.316 Thread 'Thread-23': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:07.318 Thread 'Thread-23': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Predicted Chart Pattern: bearish
+Confidence Scores: [0.3124323 0.6875677]
+2025-03-05 12:25:11.252 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:25:11.254 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.432 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.433 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.435
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 12:37:05.437 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.438 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.439
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 12:37:05.443 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.444 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.445 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:05.446 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.319 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.320 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.320 The `use_column_width` parameter has been deprecated and will be removed in a future release. Please utilize the `use_container_width` parameter instead.
+2025-03-05 12:37:06.321 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.323 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.323 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.324 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.325 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.582 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.584 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.584 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.586 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.586 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.587 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.588 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.588 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.592 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.593 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.593 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:06.594 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.103 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.105 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.105 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.174 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.175 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.176 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.178 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.178 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.180 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.181 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.182 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.237 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.238 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.238 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:37:07.239 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:09.983 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:09.984 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:09.985 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:09.986 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.560 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.562 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.562 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.563 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.564 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.565 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.565 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:10.566 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:11.075 Thread 'Thread-25': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:11.077 Thread 'Thread-25': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.448 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.450 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.634 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.635 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.636 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.637 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.638 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.638 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.639 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.640 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.644 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.645 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.647 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:14.648 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.583 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.584 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.585 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.687 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.688 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.688 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.689 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.689 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.690 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.690 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.691 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.738 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.738 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.739 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:38:17.740 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+["Crypto Fraudsters Can be Fined, Jailed and Now Also 'Caned' by Authorities. (delihayat, Getty Images)", 'Why this Crypto Hedge Fund Expects Bitcoin Dominance to Drop. Bull. Credit: Paolo Feser, Unsplash', "Ethereum's Second Buggy 'Pectra' Test Could Lead to a Delayed Upgrade. Vitalik Buterin (David Paul Morris/Bloomberg via Getty Images)", 'Improving Blockchain Data Usability: A Key to Unlocking Institutional Capital. (Lerone Pieters/Unsplash)', 'What Crypto Must Do to Activate the Wealth Advisory Segment. null', 'Nvidia-backed CoreWeave To Acquire AI Developer Platform Ahead of IPO. Cloud computing firm CoreWeave has plans to acquire AI developer platform Weights & Biases. (CoinDesk archives)', 'Arbitrum Rises 12% Amid Robinhood Listing. ARBUSD chart (TradingView)', 'Bitcoin’s Risk-Adjusted Returns Took a Hit in February. Price chart on an exchange (Nick Chong/Unsplash)', "Trump's Strategic Crypto Reserve is a Positive, Market Has Got it Wrong, Bitwise Says. Bitwise CIO on Impact of Bitcoin Futures ETFs on Markets", 'Ripple-Funded Non-Profit Aimed at Crypto Education Goes Live. 16:9 crop Books, pile, education', 'China, Germany Fire Fiscal Rockets as U.S. Looks to Cut Spending. What Does it Mean for Bitcoin?. (TradingView)', 'How Crypto Is Making It Easy for Investors to Get Visas to Portugal. Portugal Flag', 'Trading Titan Jump Is Regrouping Its U.S. Crypto Efforts, Insiders Say. Jump is regrouping its crypto efforts in U.S. as Trump eases regulations. (amriphoto, Getty Images)', 'CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Surges 20.8%, Leading Index Higher. null', 'Early Solana Backer Foundation Capital Raises $600M for Eleventh Flagship Fund. 16:9 Funding, fundraise, dollars (Gerd Altmann/Pixabay)', "Bitcoin’s Extended 'Extreme Fear' Reading Might Just Pump It Higher. (PhotoMosh)", "Crypto Daybook Americas: Trump's Reserve Rumors Swirl as BTC Rebound Eyes $95K. A BTC bounce may be coming. (ArtTower/Pixabay)", 'Bitcoin Open Interest Hits Lowest Level Since August. BTC Futures Open Interest (Glassnode)', 'Billions in BTC, ETH, XRP Flowed to Exchanges After Trump’s Reserve Plans. USDT inflows surged during recent BTC price dip. (dimitrisvetsikas1969/Pixabay)', "Animoca Brands' Advisory Overtook Web3 Businesses in 2024 as the Yat Siu-Led Firm Pivots. Animoca Brands' co-founder and executive chairman Yat Siu speaks at Consensus Hong Kong (CoinDesk)", 'Bitcoin Could Swing Back to $95K Amid Signs of BTC Bear Exhaustion. A BTC bounce may be coming. (ArtTower/Pixabay)', 'Sygnum Bank Expands Custody to Include Leading Crypto Options Exchange Deribit. Deribit CEO Luuk Strijers (Extreme right) at Consensus Hong Kong (CoinDesk)', 'Dollar Index Declines Below 105 as Bitcoin Hits $90K. Dollar (CoinDesk)', 'Ethereum’s ‘Pectra’ Upgrade Moves Closer to Mainnet After Sepolia Test. Fork (Pixabay)', 'AAVE Jumps 21% as Aave DAO Reveals its ‘Most Important’ Proposal. (Unsplash)']
+2025-03-05 12:42:12.743 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:12.744 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:12.745 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:12.746 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.192 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.194 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.194 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.195 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.196 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.381 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.382 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.384 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.385 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.386 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.386 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.387 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.388 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.391 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.392 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.393 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.393 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.840 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.841 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.841 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.842 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.842 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.843 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.878 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.879 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.881 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:42:13.881 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--- Dashboard Demonstration ---
+2025-03-05 12:44:12.430 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:44:12.431 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:44:12.432
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 12:44:12.434 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:44:12.436 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 12:44:12.436
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+Test Article: Crypto Fraudsters Can be Fined, Jailed and Now Also 'Caned' by Authorities. (delihayat, Getty Images)
+Sentiment: Positive
+Generated chart at C:\Users\moham\AppData\Local\Temp\tmp5azrw_51.png
+Predicted Chart Pattern: bearish
+Confidence Scores: [0.3124323 0.6875677]
+Fetched 66 articles.
+Labeled data contains 66 samples.
+Starting LLM fine-tuning...
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+c:\users\moham\appdata\local\programs\python\python39\lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+c:\users\moham\appdata\local\programs\python\python39\lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+Fetched 66 articles.
+Labeled data contains 66 samples.
+Starting LLM fine-tuning...
+Generated 55 candlestick charts.
+C:\Users\moham\AppData\Local\Temp/ipykernel_51468/409693026.py:99: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Starting VLM fine-tuning...
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 1.3774082660675049
+Epoch 0 Loss: 2.818952798843384
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.9048699140548706
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.784544050693512
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.8591960668563843
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.7002227902412415
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.7613494396209717
+Epoch 0 Loss: 0.7057024836540222
+Epoch 0 Loss: 0.6970884799957275
+Epoch 0 Loss: 0.6908790469169617
+Epoch 0 Loss: 0.7110240459442139
+Epoch 0 Loss: 0.6931471824645996
+Epoch 0 Loss: 0.716586709022522
+Epoch 0 Loss: 0.7090120911598206
+Epoch 0 Loss: 0.0
+Epoch 1 Loss: 0.7010345458984375
+Epoch 1 Loss: 0.6863381862640381
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6799802780151367
+Epoch 1 Loss: 0.7145581245422363
+Epoch 1 Loss: 0.7117255330085754
+Epoch 1 Loss: 0.7243766784667969
+Epoch 1 Loss: 0.7076696157455444
+Epoch 1 Loss: 0.6863136291503906
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.7255331873893738
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.7174117565155029
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6982216835021973
+Epoch 1 Loss: 0.6953047513961792
+Epoch 1 Loss: 0.6949060559272766
+Epoch 1 Loss: 0.6896003484725952
+Epoch 1 Loss: 0.6892902851104736
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6931471824645996
+Epoch 1 Loss: 0.6933181285858154
+Generated 55 candlestick charts.
+C:\Users\moham\AppData\Local\Temp/ipykernel_51468/47431916.py:99: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Starting VLM fine-tuning...
+Generated 55 candlestick charts.
+Starting VLM fine-tuning...
+C:\Users\moham\AppData\Local\Temp/ipykernel_51468/352165469.py:99: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Generated 55 candlestick charts.
+C:\Users\moham\AppData\Local\Temp/ipykernel_51468/3268228294.py:99: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Starting VLM fine-tuning...
+Epoch 0 Loss: 0.1394376903772354
+Epoch 0 Loss: 17.43325424194336
+Epoch 0 Loss: 0.900399386882782
+Epoch 0 Loss: 0.03762509673833847
+Epoch 0 Loss: 0.010325130075216293
+Epoch 0 Loss: 2.476743221282959
+Epoch 0 Loss: 0.05465403571724892
+Epoch 0 Loss: 0.9564700126647949
+Epoch 0 Loss: 0.6928870677947998
+Epoch 0 Loss: 0.700255274772644
+Epoch 0 Loss: 0.45337215065956116
+Epoch 0 Loss: 0.3417506814002991
+Epoch 0 Loss: 0.8936256170272827
+Epoch 0 Loss: 0.20803265273571014
+Epoch 0 Loss: 1.7247209548950195
+Epoch 0 Loss: 0.8132635354995728
+Epoch 0 Loss: 0.7270450592041016
+Epoch 0 Loss: 0.5615917444229126
+Epoch 0 Loss: 0.6890722513198853
+Epoch 0 Loss: 0.6705790758132935
+Epoch 0 Loss: 0.6909503936767578
+Epoch 0 Loss: 0.6795179843902588
+Epoch 0 Loss: 0.7067692875862122
+Epoch 0 Loss: 0.8622150421142578
+Epoch 0 Loss: 0.8391132354736328
+Epoch 0 Loss: 0.6873173713684082
+Epoch 0 Loss: 0.6969174146652222
+Epoch 0 Loss: 0.5953261852264404
+Epoch 1 Loss: 0.7067111730575562
+Epoch 1 Loss: 0.4620126485824585
+Epoch 1 Loss: 0.4002040922641754
+Epoch 1 Loss: 0.7949108481407166
+Epoch 1 Loss: 0.8342036604881287
+Epoch 1 Loss: 0.8457403182983398
+Epoch 1 Loss: 0.2762002944946289
+Epoch 1 Loss: 0.860816240310669
+Epoch 1 Loss: 0.2703314423561096
+Epoch 1 Loss: 0.8640687465667725
+Epoch 1 Loss: 0.8587522506713867
+Epoch 1 Loss: 0.828551709651947
+Epoch 1 Loss: 0.802330493927002
+Epoch 1 Loss: 0.7730966806411743
+Epoch 1 Loss: 0.7495092153549194
+Epoch 1 Loss: 1.0203499794006348
+Epoch 1 Loss: 0.510649561882019
+Epoch 1 Loss: 0.6985300779342651
+Epoch 1 Loss: 0.6939741969108582
+Epoch 1 Loss: 0.6908013820648193
+Epoch 1 Loss: 0.659030020236969
+Epoch 1 Loss: 0.6601756811141968
+Epoch 1 Loss: 0.6914795637130737
+Epoch 1 Loss: 0.6902251243591309
+Epoch 1 Loss: 0.691739022731781
+Epoch 1 Loss: 0.6052634716033936
+Epoch 1 Loss: 0.5778214931488037
+Epoch 1 Loss: 0.5395016074180603
+Epoch 2 Loss: 0.7133141160011292
+Epoch 2 Loss: 0.45010948181152344
+Epoch 2 Loss: 0.39593762159347534
+Epoch 2 Loss: 1.2232935428619385
+Epoch 2 Loss: 0.7833662033081055
+Epoch 2 Loss: 0.32795047760009766
+Epoch 2 Loss: 0.8034690618515015
+Epoch 2 Loss: 0.7977937459945679
+Epoch 2 Loss: 0.7901666164398193
+Epoch 2 Loss: 1.1935770511627197
+Epoch 2 Loss: 0.7311713695526123
+Epoch 2 Loss: 0.722774863243103
+Epoch 2 Loss: 0.4858919382095337
+Epoch 2 Loss: 0.8935239315032959
+Epoch 2 Loss: 0.6928060054779053
+Epoch 2 Loss: 0.6777675151824951
+Epoch 2 Loss: 0.674368143081665
+Epoch 2 Loss: 0.6269314289093018
+Epoch 2 Loss: 0.6380176544189453
+Epoch 2 Loss: 0.6910207271575928
+Epoch 2 Loss: 0.611188530921936
+Epoch 2 Loss: 0.5926923751831055
+Epoch 2 Loss: 0.6903080344200134
+Epoch 2 Loss: 0.5220676064491272
+Epoch 2 Loss: 0.7040998935699463
+Epoch 2 Loss: 0.4376850128173828
+Epoch 2 Loss: 0.39923661947250366
+Epoch 2 Loss: 0.3571089506149292
+VLM fine-tuning complete and model saved to ./models/vlm_finetuned.pth
+2025-03-05 13:25:37.916 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:25:37.918 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:25:37.919
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 13:25:37.921 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:25:37.922 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:25:37.923
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+--- Dashboard Demonstration ---
+Test Article: Law firm to challenge Turkey’s ban on crypto payments. <p style="float: right; margin: 0 0 10px 15px; width: 240px;"><img src="https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMDMvMDE5NTY3ODMtZDdiZi03NTM0LWIyNzctY2NhMWQ1YTdhZWU0.jpg" /></p><p>A positive ruling could pave the way for new business models in Turkey, particularly for crypto exchanges seeking licenses.</p>
+Sentiment: Positive
+Generated chart at C:\Users\moham\AppData\Local\Temp\tmp1zi32j11.png
+Predicted Chart Pattern: bearish
+Confidence Scores: [0.31277615 0.68722385]

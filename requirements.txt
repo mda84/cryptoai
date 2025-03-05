@@ -1,0 +1,13 @@
+feedparser
+nltk
+datasets
+transformers
+pycoingecko
+mplfinance
+torch
+torchvision
+streamlit
+pandas
+Pillow
+matplotlib
+git+https://github.com/openai/CLIP.git

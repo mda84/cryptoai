@@ -1,0 +1,89 @@
+
+LLM fine-tuning complete and model saved to ./models/llm_finetuned
+Generated 55 candlestick charts.
+C:\Users\moham\AppData\Local\Temp/ipykernel_39392/3433736019.py:99: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels).to(device)
+Starting VLM fine-tuning...
+Epoch 0 Loss: 1.7087438106536865
+Epoch 0 Loss: 4.089028835296631
+Epoch 0 Loss: 2.3307607173919678
+Epoch 0 Loss: 0.5180132389068604
+Epoch 0 Loss: 0.9236690998077393
+Epoch 0 Loss: 0.588776707649231
+Epoch 0 Loss: 0.4214000105857849
+Epoch 0 Loss: 1.077101469039917
+Epoch 0 Loss: 0.6181157231330872
+Epoch 0 Loss: 0.642157793045044
+Epoch 0 Loss: 0.6840968728065491
+Epoch 0 Loss: 0.7055062651634216
+Epoch 0 Loss: 0.6209826469421387
+Epoch 0 Loss: 0.6279971599578857
+Epoch 1 Loss: 0.7177717089653015
+Epoch 1 Loss: 0.5640753507614136
+Epoch 1 Loss: 0.7447790503501892
+Epoch 1 Loss: 0.7233631014823914
+Epoch 1 Loss: 0.6102532744407654
+Epoch 1 Loss: 0.5444055795669556
+Epoch 1 Loss: 0.7015656232833862
+Epoch 1 Loss: 0.5051751136779785
+Epoch 1 Loss: 0.5148640871047974
+Epoch 1 Loss: 0.535960853099823
+Epoch 1 Loss: 0.8493967056274414
+Epoch 1 Loss: 0.7733601331710815
+Epoch 1 Loss: 0.3940049111843109
+Epoch 1 Loss: 0.6975641846656799
+Epoch 2 Loss: 0.5802949666976929
+Epoch 2 Loss: 0.48255085945129395
+Epoch 2 Loss: 0.45506903529167175
+Epoch 2 Loss: 0.4332890212535858
+Epoch 2 Loss: 1.0390567779541016
+Epoch 2 Loss: 0.5959218740463257
+Epoch 2 Loss: 0.5950782895088196
+Epoch 2 Loss: 0.49624794721603394
+Epoch 2 Loss: 0.5025773048400879
+Epoch 2 Loss: 0.5611284375190735
+Epoch 2 Loss: 0.3262397050857544
+Epoch 2 Loss: 0.471120685338974
+Epoch 2 Loss: 0.7060766220092773
+2025-03-05 13:32:50.490 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Epoch 2 Loss: 0.5386494398117065
+VLM fine-tuning complete and model saved to ./models/vlm_finetuned.pth
+2025-03-05 13:32:52.447
+  [33m[1mWarning:[39m[22m to view this Streamlit app on a browser, run it with the following
+  command:
+    streamlit run c:\users\moham\appdata\local\programs\python\python39\lib\site-packages\ipykernel_launcher.py [ARGUMENTS]
+2025-03-05 13:32:52.448 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.448
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 13:32:52.450 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.450 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.451
+`st.cache` is deprecated and will be removed soon. Please use one of Streamlit's new
+caching commands, `st.cache_data` or `st.cache_resource`. More information
+[in our docs](https://docs.streamlit.io/develop/concepts/architecture/caching).
+**Note**: The behavior of `st.cache` was updated in Streamlit 1.36 to the new caching
+logic used by `st.cache_data` and `st.cache_resource`. This might lead to some problems
+or unexpected behavior in certain edge cases.
+2025-03-05 13:32:52.454 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.455 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.455 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.539 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:52.540 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+--- Dashboard Demonstration ---
+Test Article: Why this Crypto Hedge Fund Expects Bitcoin Dominance to Drop. Bull. Credit: Paolo Feser, Unsplash
+Sentiment: Positive
+2025-03-05 13:32:57.032 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:57.033 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:57.033 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:57.550 Thread 'Thread-23': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:32:57.553 Thread 'Thread-23': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Generated chart at C:\Users\moham\AppData\Local\Temp\tmpxd88h64j.png
+2025-03-05 13:33:00.826 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2025-03-05 13:33:00.829 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Predicted Chart Pattern: bearish
+Confidence Scores: [0.37578073 0.62421924]
